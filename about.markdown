@@ -8,5 +8,6 @@ An Application Security Engineer and Web App Pentester based in the woods of New
 
 Send me an [email](mailto:rjxmurphy@gmail.com)
 
-Find me on [LinkedIn](https://linkedin.com/rjmurphy)
+Find me on [LinkedIn](https://www.linkedin.com/in/rj-murphy)
 
+ 
