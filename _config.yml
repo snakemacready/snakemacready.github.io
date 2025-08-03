@@ -20,8 +20,7 @@
 
 title: RJ Murphy
 email: rjxmurphy@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Application security specialist documenting my foray into the world of pentesting.
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  snakemacready
